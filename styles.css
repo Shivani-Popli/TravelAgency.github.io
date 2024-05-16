@@ -57,7 +57,7 @@ footer {
 /* Index page styles */
 
 #hero {
-    background-image: url("https://github.com/Shivani-Popli/TravelAgency.github.io/blob/main/yousef-alfuhigi-bMIlyKZHKMY-unsplash.jpg"); 
+    background-image: url("../image/index_page.jpg"); 
     background-size: cover;
     background-position: center;
     height: 100vh; /* height as needed */
@@ -107,7 +107,7 @@ footer {
 /*Form page styles*/
 
 #tripCalculator {
-    background-image: url("https://github.com/Shivani-Popli/TravelAgency.github.io/blob/main/felix-rostig-UmV2wr-Vbq8-unsplash.jpg"); 
+    background-image: url("../image/Form_Page.jpg"); 
     background-size: cover;
     background-position: center;
     padding: 20px;
